@@ -1,0 +1,9 @@
+inflect
+transformers
+torch
+plotly
+pandas
+nltk
+streamlit
+altair<5
+streamlit-authenticator
